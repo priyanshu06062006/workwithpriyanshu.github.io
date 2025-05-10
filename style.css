@@ -70,7 +70,7 @@ section{
     height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url(Image/ChatGPT\ Image\ May\ 10\,\ 2025\,\ 02_03_35\ PM.png);
+    background-image: url(ChatGPT\ Image\ May\ 10\,\ 2025\,\ 02_03_35\ PM.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -631,7 +631,7 @@ section{
 
     .menu-btn{
         position: absolute;
-        background-image: url(Image/menu.png);
+        background-image: url(menu.png);
         background-position: center;
         background-size: 30px;
         background-repeat: no-repeat;
@@ -645,7 +645,7 @@ section{
 
     .menu-btn.active{
         z-index: 999;
-        background-image: url(Image/close.png);
+        background-image: url(close.png);
         background-repeat: no-repeat;
         background-position: center;
         background-size: 25px;
